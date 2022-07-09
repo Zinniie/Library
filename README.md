@@ -1,1 +1,1 @@
-# Library
+# A simple library management app With Django rest framework
